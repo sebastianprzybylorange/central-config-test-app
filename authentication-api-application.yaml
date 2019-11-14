@@ -1,0 +1,4 @@
+management.endpoints.web.base-path=/
+swagger.domainInHeader=true
+security.validationMethod.accountCredentials=another_tenant
+security.validationMethod.adminUserCredentials=email
